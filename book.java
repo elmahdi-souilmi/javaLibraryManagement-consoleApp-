@@ -1,6 +1,6 @@
 package gestionBiblio;
 
-public class book {
+public class Book {
 private int id;
   private String label;
   private String name;

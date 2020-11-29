@@ -1,6 +1,6 @@
 package gestionBiblio;
 
-public class worker extends Persone {
+public class Worker extends Person {
 	private int id ;
 	private String regNumber;
 

@@ -1,6 +1,6 @@
 package gestionBiblio;
 
-public class student extends Persone {
+public class Student extends Person {
 	private int id;
 	private int age;
 	private String adress;
